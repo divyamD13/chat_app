@@ -20,6 +20,7 @@ class ChatScreen extends StatelessWidget {
               Icons.exit_to_app,
               color: Theme.of(context).colorScheme.primary,
               
+              
             ),
           ),
         ],
